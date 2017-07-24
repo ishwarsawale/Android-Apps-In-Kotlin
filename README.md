@@ -1,6 +1,8 @@
 # Android-Apps-In-Kotlin
 
-## AgeApp
-## TicTacToe
-## Calculator
-## Pokemon Clone
+## Age App
+## TicTacToe App
+## Calculator App
+## Pokemon Clone App
+## Zoo App
+## Sun Rise App
